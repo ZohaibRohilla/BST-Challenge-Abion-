@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTchallenge", "BSTchallenge\BSTchallenge.csproj", "{4403A4F4-1C9A-405F-9B8B-F1CE23817344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4403A4F4-1C9A-405F-9B8B-F1CE23817344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4403A4F4-1C9A-405F-9B8B-F1CE23817344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4403A4F4-1C9A-405F-9B8B-F1CE23817344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4403A4F4-1C9A-405F-9B8B-F1CE23817344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40BDB2C5-3FAE-44C6-BE8F-A7D5FE662ECC}
+	EndGlobalSection
+EndGlobal
